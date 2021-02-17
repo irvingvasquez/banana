@@ -18,3 +18,10 @@ The traning was run for 175 episodes until the agent gets an average of 13 point
 
 ![Traning](learning.png)
 
+## Runing
+This work was run on the Udacity server. To replicate the experiment i recommend to follow [these instructions](https://github.com/udacity/deep-reinforcement-learning). My architecture is located in the model.py file and the trained weigths are in the log/checkpoint.pth file
+
+
+
+
+ 
